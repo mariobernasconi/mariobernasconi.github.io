@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student at the Department of Econometrics and Operations Research, Tilburg University. I am an applied microeconomist in training with interest in labour economics and industrial organization.
+Welcome to my website!
+
+I'm an applied microeconomist in training with interest in labour economics and industrial organization. I'm currently a third year PhD student at the Department of Econometrics and Operations Research, Tilburg University. 
