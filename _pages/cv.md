@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-#You can find the complete version of my CV <a href="https://github.com/mariobernasconi/Resume/blob/main/CV_FL.pdf" style="text-decoration: none" target="_blank">here</a>.
+You can find my CV [here](/files/CV_Bernasconi.pdf)
 
 Education
 ======
