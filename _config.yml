@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Mario Bernasconi"
-  avatar           : "PicMe.PNG"
+  avatar           : "profile.png"
   bio              : "PhD Student in Econometrics at Tilburg University"
   location         : "Antwerpen, Belgium"
-  employer         : "https://www.tilburguniversity.edu/staff/m-bernasconi"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "M.Bernasconi@tilburguniversity.edu"
