@@ -12,6 +12,6 @@ Working papers
 
 Work in progress
 ----
-* Market Transparency, Relational Contracts and Collusion in the Colombian Electricity Market. Joint with Miguel Espinosa, Rocco Macchiavello and Carlos Suarez. Draft available upon request.
-* Present-Biased Preferences, Retirement Planning and Demand for Commitments. Draft available upon request.
-* Gradual Retirement at old age. Joint with Tunga Kantarci. Work in progress.
+* Market Transparency, Relational Contracts and Collusion in the Colombian Electricity Market. Joint with Miguel Espinosa, Rocco Macchiavello and Carlos Suarez. Draft available soon.
+* Present-Biased Preferences, Retirement Planning and Demand for Commitments. Draft available soon.
+* Gradual Retirement at Old Age. Joint with Tunga Kantarci. Work in progress.
