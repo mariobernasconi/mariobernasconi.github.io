@@ -11,14 +11,14 @@ Working papers
   * Policy coverage in Dutch in [Netspar](https://www.netspar.nl/nieuws/hoe-reageren-partners-op-het-wegvallen-van-de-wia-uitkering/) and [ESB](https://esb.nu/partners-van-langdurig-zieken-zijn-meer-gaan-werken-door-invoering-wia/).
   * Selected presentations: ESPE 2021(*), SEHO 2022, EALE 2022.
 
+* [Relational Collusion in the Colombian Electricity Market](/files/Colombia_April_2023). Joint with Miguel Espinosa, Rocco Macchiavello and Carlos Suarez.
+  * Selected presentations: NBER Organizational Economics Fall 2022(*).
 
 Work in progress
 ----
-* Market Transparency, Relational Contracts and Collusion in the Colombian Electricity Market. Joint with Miguel Espinosa, Rocco Macchiavello and Carlos Suarez. Draft available soon.
-  * Selected presentations: NBER Organizational Economics Fall 2022(*).
 * Present-Biased Preferences, Retirement Planning and Demand for Commitments. Draft available soon.
   * Selected presentations: Universitat Autònoma de Barcelona.
-* Gradual Retirement at Old Age. Joint with Tunga Kantarci. Work in progress.
+* Pension reforms and partial retirement. Joint with Tunga Kantarci. Work in progress.
 
 
 (*) presentations by cohautors
