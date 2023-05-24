@@ -17,9 +17,10 @@ Working papers
 
 Work in progress
 ----
-* Present-Biased Preferences, Retirement Planning and Demand for Commitments. Draft available soon.
+* Pension reforms and partial retirement. Joint with Tunga Kantarci.
+  * Selected presentations: NESG 2023, Netspar IPW 2023, EALE 2023
+* Present-Biased Preferences, Retirement Planning and Demand for Commitments.
   * Selected presentations: Universitat Autònoma de Barcelona.
-* Pension reforms and partial retirement. Joint with Tunga Kantarci. Work in progress.
 
 
 (*) presentations by cohautors
