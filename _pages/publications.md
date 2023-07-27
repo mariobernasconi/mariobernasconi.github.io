@@ -18,7 +18,7 @@ Working papers
 Work in progress
 ----
 * Pension reforms and partial retirement. Joint with Tunga Kantarci.
-  * Selected presentations: NESG 2023, Netspar IPW 2023, EALE 2023
+  * Selected presentations: NESG 2023, Netspar IPW 2023, EALE 2023, AIEL 2023, SMYE 2023
 * Present-Biased Preferences, Retirement Planning and Demand for Commitments.
   * Selected presentations: Universitat Autònoma de Barcelona.
 
