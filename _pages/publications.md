@@ -23,4 +23,4 @@ Work in progress
   * Selected presentations: Universitat Autònoma de Barcelona.
 
 
-(*) presentations by cohautors
+(*) presentations by co-authors
