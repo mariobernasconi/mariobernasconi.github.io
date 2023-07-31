@@ -11,3 +11,5 @@ redirect_from:
 Welcome to my website!
 
 I'm an applied microeconomist in training with interest in labour economics and organizational economics. I'm currently a third year PhD student at the Department of Econometrics and Operations Research, Tilburg University. 
+
+You can find my CV [here](/files/CV_Bernasconi.pdf).
