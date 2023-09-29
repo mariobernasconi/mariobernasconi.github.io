@@ -7,8 +7,8 @@ author_profile: true
 
 Job Market Paper
 ---- 
-* Pension Reforms and Partial Retirement. Joint with Tunga Kantarci. Draft available soon.
-  * Selected presentations: NESG 2023 (Rotterdam), Netspar IPW 2023 (Leiden), EALE 2023 (Prague), AIEL 2023 (Genova), SMYE 2023 (Torino)
+* [Pension Reforms and Partial Retirement](/files/JMP.pdf). Joint with Tunga Kantarci.
+  * Selected presentations: Netherlands Econometric Study Group 2023 (Rotterdam), Netspar IPW 2023 (Leiden), EALE 2023 (Prague), AIEL 2023 (Genova), SMYE 2023 (Torino), Structural Econometrics Group (Tilburg), Nederlandse Economendag (The Hague).
 
 Working papers
 ---- 
