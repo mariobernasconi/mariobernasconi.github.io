@@ -16,4 +16,4 @@ Education
 * M.Sc. in Economic and Social Sciences, Bocconi University, 2017
 * B.Sc. in Economics and Management, Insubria University, 2015
 
-<img src="https://github.com/mariobernasconi/mariobernasconi.github.io/blob/master/images/NED.JPG" style="display: block; margin: auto;" />
+<img src="https://github.com/mariobernasconi/mariobernasconi.github.io/blob/master/images/NED.JPG" width="525" height="340" style="display: block; margin: auto;" />
