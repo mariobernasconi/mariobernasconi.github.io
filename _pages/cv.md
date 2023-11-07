@@ -16,5 +16,5 @@ Education
 * M.Sc. in Economic and Social Sciences, Bocconi University, 2017
 * B.Sc. in Economics and Management, Insubria University, 2015
 
-<img src="https://github.com/mariobernasconi/mariobernasconi.github.io/blob/master/_pages/NED.JPG?raw=true" width="525" height="340" style="display: block; margin: auto;" />
+<img src="https://github.com/mariobernasconi/mariobernasconi.github.io/blob/master/images/NED.JPG?raw=true" width="525" height="340" style="display: block; margin: auto;" />
 <p align="center"><i> Presenting my JMP at the Nederlandse Economendag 2023, Den Haag.</i></p>
