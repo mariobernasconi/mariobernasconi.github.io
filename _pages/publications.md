@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* [The Added Worker Effect: Evidence from a Disability Insurance Reform](https://link.springer.com/content/pdf/10.1007/s11150-023-09692-4.pdf). Joint with Tunga Kantarci, Arthur van Soest and Jan-Maarten van Sonsbeek. _Review of Economics of the Household_ (2024).
+* [The Added Worker Effect: Evidence from a Disability Insurance Reform](https://doi.org/10.1007/s11150-023-09692-4). Joint with Tunga Kantarci, Arthur van Soest and Jan-Maarten van Sonsbeek.
   * Policy coverage in Dutch in [Netspar](https://www.netspar.nl/nieuws/hoe-reageren-partners-op-het-wegvallen-van-de-wia-uitkering/) and [ESB](https://esb.nu/partners-van-langdurig-zieken-zijn-meer-gaan-werken-door-invoering-wia/).
 
 Working papers
