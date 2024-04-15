@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website!
 
-I'm an applied microeconomist with an interest in labour economics.
+I'm an applied microeconomist with an interest in labour and organizational economics.
 
 I'm currently a PhD student at the Department of Econometrics at Tilburg University. As of September 2024, I'll join the University of Basel as a Postdoctoral researcher.
 
