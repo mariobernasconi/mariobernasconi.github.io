@@ -11,10 +11,10 @@ author_profile: true
 Working papers
 ---- 
 * [Pension Reforms and Partial Retirement](/files/JMP.pdf). Joint with Tunga Kantarci.
-  * Selected presentations: Basel, CSEF Napoli, ETH Zurich, Liverpool, MEA Munich, EALE 2023 (Prague), AIEL 2023 (Genova), SMYE 2023 (Torino), SOLE 2024 (Portland - _planned_).
+  * Selected presentations: Basel, CSEF Napoli, ETH Zurich, Liverpool, MEA Munich, EALE 2023 (Prague), AIEL 2023 (Genova), SMYE 2023 (Torino), SOLE 2024 (Portland).
 
 * [Relational Collusion in the Colombian Electricity Market](/files/Bernasconi_et_al_Relational_Collusion_April_2023.pdf). Joint with Miguel Espinosa, Rocco Macchiavello and Carlos Suarez. [CEPR Press Discussion Paper No. 18056](https://cepr.org/publications/dp18056)
-  * Selected presentations: NBER Organizational Economics Fall 2022 (presentation by co-author).
+  * Selected presentations: NBER Organizational Economics Fall 2022, CEPR-JIE Conference on Applied IO 2024 (presentation by co-author).
 
 Work in progress
 ----
