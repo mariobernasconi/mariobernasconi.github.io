@@ -18,5 +18,5 @@ Working papers
 
 Work in progress
 ----
-* Present-Biased Preferences, Retirement Planning and Demand for Commitments.
+* Retirement and Commitments with Present-Biased Preferences.
   * Selected presentations: Universitat Autònoma de Barcelona, SEG Tilburg, Netspar IPW 2021 (online).
