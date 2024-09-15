@@ -11,7 +11,7 @@ You can find my CV [here](/files/CV_Bernasconi.pdf).
 
 Education
 ======
-* Ph.D in Econometrics, Tilburg University, 2024 (expected)
+* Ph.D., Department of Econometrics & OR, Tilburg University, 2024
 * M.Res. in Economics, Tilburg University, 2020
 * M.Sc. in Economic and Social Sciences, Bocconi University, 2017
 * B.Sc. in Economics and Management, Insubria University, 2015
