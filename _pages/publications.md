@@ -13,14 +13,14 @@ Working papers
 ---- 
 * [Pension Reforms and Partial Retirement](/files/JMP.pdf).
   * With [Tunga Kantarci](https://tungakantarci.github.io/).
-  * Selected presentations: Basel, CSEF Napoli, ETH Zurich, Liverpool, EALE 2023 (Prague), SOLE 2024 (Portland).
+  * Selected presentations: Basel, CSEF Napoli, ETH Zurich, Liverpool, SOLE 2024 (Portland).
 
 * [Relational Collusion in the Colombian Electricity Market](/files/Bernasconi_et_al_Relational_Collusion_2024.pdf).
   * With [Miguel Espinosa](https://espinomics.wixsite.com/mespinosa), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/) and [Carlos Suarez](https://sites.google.com/view/carlos-surez/home). 
   * Selected presentations: NBER Organizational Economics Fall 2022, CEPR-JIE Conference on Applied IO 2024 (presentations by co-author).
  
 * [Retirement and Commitments with Present-Biased Preferences](/files/Present_Bias.pdf).
-  * Selected presentations: Universitat Autònoma de Barcelona, SEG Tilburg, Netspar IPW 2021 (online).
+  * Selected presentations: Universitat Autònoma de Barcelona, Tilburg.
 
 Work in progress
 ----
