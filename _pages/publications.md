@@ -28,4 +28,4 @@ Work in progress
   * With [Alexandros Theloudis](https://www.theloudis.net/home.html).
 
 * Unemployment Insurance and Exits from Employment
-  * With [Conny Wunsch](https://sites.google.com/view/cwunsch) and [Vera Zabrodina](https://verazb.github.io/)
+  * With [Conny Wunsch](https://sites.google.com/view/cwunsch) and [Véra Zabrodina](https://verazb.github.io/)
