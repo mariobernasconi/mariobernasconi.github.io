@@ -26,3 +26,6 @@ Work in progress
 ----
 * Family Time Allocations over the Last Half Century.
   * With [Alexandros Theloudis](https://www.theloudis.net/home.html).
+
+* Unemployment Insurance and Exits from Employment
+  * With [Conny Wunsch](https://sites.google.com/view/cwunsch) and [Vera Zabrodina]([verazb.github.io](https://verazb.github.io/))
