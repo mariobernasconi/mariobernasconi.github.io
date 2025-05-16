@@ -11,6 +11,9 @@ author_profile: true
 
 Working papers
 ---- 
+* [Retirement and Commitments with Present-Biased Preferences](/files/Present_Bias.pdf). _R&R_ at JEBO.
+  * Selected presentations: Universitat Autònoma de Barcelona, Tilburg.
+
 * [Pension Reforms and Partial Retirement](/files/JMP.pdf).
   * With [Tunga Kantarci](https://tungakantarci.github.io/).
   * Selected presentations: Basel, CSEF Napoli, ETH Zurich, Liverpool, SOLE 2024 (Portland).
@@ -19,9 +22,6 @@ Working papers
   * With [Miguel Espinosa](https://espinomics.wixsite.com/mespinosa), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/) and [Carlos Suarez](https://sites.google.com/view/carlos-surez/home). 
   * Selected presentations: NBER Organizational Economics Fall 2022, CEPR-JIE Conference on Applied IO 2024 (presentations by co-author).
  
-* [Retirement and Commitments with Present-Biased Preferences](/files/Present_Bias.pdf).
-  * Selected presentations: Universitat Autònoma de Barcelona, Tilburg.
-
 Work in progress
 ----
 * Family Time Allocations over the Last Half Century.
