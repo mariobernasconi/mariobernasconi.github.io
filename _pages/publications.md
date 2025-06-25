@@ -18,7 +18,7 @@ Working papers
   * With [Tunga Kantarci](https://tungakantarci.github.io/).
   * Selected presentations: Basel, CSEF Napoli, ETH Zurich, Liverpool, SOLE 2024 (Portland).
 
-* [Anticipatory Responses and Coordinated Bidding in the Colombia Wholesale Energy Market](/files/Bernasconi_et_al_Relational_Collusion_2025.pdf).
+* [Anticipatory Responses and Coordinated Bidding in the Colombia Wholesale Energy Market](/files/Bernasconi_et_al_Relational_Collusion_2025.pdf) (New draft and new title!).
   * With [Miguel Espinosa](https://espinomics.wixsite.com/mespinosa), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/) and [Carlos Suarez](https://sites.google.com/view/carlos-surez/home). 
   * Selected presentations: NBER Organizational Economics Fall 2022, CEPR-JIE Conference on Applied IO 2024 (presentations by co-author).
  
