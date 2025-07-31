@@ -11,17 +11,17 @@ author_profile: true
 
 Working papers
 ---- 
-* [Retirement and Commitments with Present-Biased Preferences](/files/Present_Bias.pdf). _R&R_ at JEBO.
+* [Retirement and Commitments with Present-Biased Preferences](/files/Present_Bias.pdf). _R&R at JEBO_.
   * Selected presentations: Universitat Autònoma de Barcelona, Tilburg.
+
+* [Anticipatory Responses and Coordinated Bidding in the Colombia Wholesale Energy Market](/files/Bernasconi_et_al_Relational_Collusion_2025.pdf) (New draft and new title!).
+  * With [Miguel Espinosa](https://espinomics.wixsite.com/mespinosa), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/) and [Carlos Suarez](https://sites.google.com/view/carlos-surez/home). 
+  * Selected presentations: NBER Organizational Economics Fall 2022, CEPR-JIE Conference on Applied IO 2024 (presentations by co-author).
 
 * [Pension Reforms and Partial Retirement](/files/JMP.pdf).
   * With [Tunga Kantarci](https://tungakantarci.github.io/).
   * Selected presentations: Basel, CSEF Napoli, ETH Zurich, Liverpool, SOLE 2024 (Portland).
 
-* [Anticipatory Responses and Coordinated Bidding in the Colombia Wholesale Energy Market](/files/Bernasconi_et_al_Relational_Collusion_2025.pdf) (New draft and new title!).
-  * With [Miguel Espinosa](https://espinomics.wixsite.com/mespinosa), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/) and [Carlos Suarez](https://sites.google.com/view/carlos-surez/home). 
-  * Selected presentations: NBER Organizational Economics Fall 2022, CEPR-JIE Conference on Applied IO 2024 (presentations by co-author).
- 
 Work in progress
 ----
 * Family Time Allocations over the Last Half Century.
