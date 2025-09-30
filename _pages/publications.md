@@ -11,10 +11,10 @@ author_profile: true
 
 Working papers
 ---- 
-* [Retirement and Commitments with Present-Biased Preferences](/files/Present_Bias.pdf). _R&R at JEBO_.
+* [Retirement and Commitments with Present-Biased Preferences](/files/Present_Bias.pdf). _R&R at Journal of Economic Behavior & Organization_.
   * Selected presentations: Universitat Autònoma de Barcelona, Tilburg.
 
-* [Anticipatory Responses and Coordinated Bidding in the Colombia Wholesale Energy Market](/files/Bernasconi_et_al_Relational_Collusion_2025.pdf) (New draft and new title!).
+* [Anticipatory Responses and Coordinated Bidding in the Colombia Wholesale Energy Market](/files/Bernasconi_et_al_Relational_Collusion_2025.pdf).
   * With [Miguel Espinosa](https://espinomics.wixsite.com/mespinosa), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/) and [Carlos Suarez](https://sites.google.com/view/carlos-surez/home). 
   * Selected presentations: NBER Organizational Economics Fall 2022, CEPR-JIE Conference on Applied IO 2024 (presentations by co-author).
 
