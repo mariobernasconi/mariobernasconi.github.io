@@ -6,21 +6,17 @@ author_profile: true
 ---
 
 * [The Added Worker Effect: Evidence from a Disability Insurance Reform](https://doi.org/10.1007/s11150-023-09692-4). _Review of Economics of the Household (2024)._
-  * With [Tunga Kantarci](https://tungakantarci.github.io/), [Arthur van Soest](https://www.tilburguniversity.edu/staff/a-h-o-vansoest) and [Jan-Maarten van Sonsbeek](https://www.cpb.nl/en/staff/jan-maarten-van-sonsbeek).
-  * Policy coverage in Dutch in [Netspar](https://www.netspar.nl/nieuws/hoe-reageren-partners-op-het-wegvallen-van-de-wia-uitkering/) and [ESB](https://esb.nu/partners-van-langdurig-zieken-zijn-meer-gaan-werken-door-invoering-wia/).
+  * With [Tunga Kantarci](https://tungakantarci.github.io/), [Arthur van Soest](https://www.tilburguniversity.edu/staff/a-h-o-vansoest) and [Jan-Maarten van Sonsbeek](https://www.cpb.nl/en/staff/jan-maarten-van-sonsbeek). Policy coverage in Dutch in [Netspar](https://www.netspar.nl/nieuws/hoe-reageren-partners-op-het-wegvallen-van-de-wia-uitkering/) and [ESB](https://esb.nu/partners-van-langdurig-zieken-zijn-meer-gaan-werken-door-invoering-wia/).
 
 Working papers
 ---- 
 * [Retirement and Commitments with Present-Biased Preferences](/files/Present_Bias.pdf). _R&R at Journal of Economic Behavior & Organization_.
-  * Selected presentations: Universitat Autònoma de Barcelona, Tilburg.
 
 * [Anticipatory Responses and Coordinated Bidding in the Colombia Wholesale Energy Market](/files/Bernasconi_et_al_Relational_Collusion_2025.pdf).
-  * With [Miguel Espinosa](https://espinomics.wixsite.com/mespinosa), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/) and [Carlos Suarez](https://sites.google.com/view/carlos-surez/home). 
-  * Selected presentations: NBER Organizational Economics Fall 2022, CEPR-JIE Conference on Applied IO 2024 (presentations by co-author).
+  * With [Miguel Espinosa](https://espinomics.wixsite.com/mespinosa), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/) and [Carlos Suarez](https://sites.google.com/view/carlos-surez/home). older versions circulated as [CEPR](https://cepr.org/publications/dp18056) and [CESifo](https://www.ifo.de/en/cesifo/publications/2023/working-paper/relational-collusion-colombian-electricity-market) working paper.
 
 * [Pension Reforms and Partial Retirement](/files/JMP.pdf).
   * With [Tunga Kantarci](https://tungakantarci.github.io/).
-  * Selected presentations: Basel, CSEF Napoli, ETH Zurich, Liverpool, SOLE 2024 (Portland).
 
 Work in progress
 ----
