@@ -13,7 +13,7 @@ Working papers
 * [Retirement and Commitments with Present-Biased Preferences](/files/Present_Bias.pdf). _R&R at Journal of Economic Behavior & Organization_.
 
 * [Anticipatory Responses and Coordinated Bidding in the Colombia Wholesale Energy Market](/files/Bernasconi_et_al_Relational_Collusion_2025.pdf).
-  * With [Miguel Espinosa](https://espinomics.wixsite.com/mespinosa), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/) and [Carlos Suarez](https://sites.google.com/view/carlos-surez/home). older versions circulated as [CEPR](https://cepr.org/publications/dp18056) and [CESifo](https://www.ifo.de/en/cesifo/publications/2023/working-paper/relational-collusion-colombian-electricity-market) working paper.
+  * With [Miguel Espinosa](https://espinomics.wixsite.com/mespinosa), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/) and [Carlos Suarez](https://sites.google.com/view/carlos-surez/home). Older versions circulated as [CEPR](https://cepr.org/publications/dp18056) and [CESifo](https://www.ifo.de/en/cesifo/publications/2023/working-paper/relational-collusion-colombian-electricity-market) working paper.
 
 * [Pension Reforms and Partial Retirement](/files/JMP.pdf).
   * With [Tunga Kantarci](https://tungakantarci.github.io/).
