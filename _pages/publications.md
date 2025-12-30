@@ -19,7 +19,7 @@ Working papers
   * With [Miguel Espinosa](https://espinomics.wixsite.com/mespinosa), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/) and [Carlos Suarez](https://sites.google.com/view/carlos-surez/home). Older versions circulated as [CEPR](https://cepr.org/publications/dp18056) and [CESifo](https://www.ifo.de/en/cesifo/publications/2023/working-paper/relational-collusion-colombian-electricity-market) working paper.
 
 * [Quality Upgrading in Global Supply Chains: Evidence from Colombian Coffee](/files/MMFDRVBF2512.pdf).
-  * With [Nicolás de Roux](https://sites.google.com/site/nicoderoux/), [Patrick Farrell](https://www.patrickwfarrell.com/), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/), [Josepa Miquel-Florensa](https://www.tse-fr.eu/people/josepa-miquel-florensa), and [Eric Verhoogen](https://www.columbia.edu/~ev2124/).
+  * With [Nicolás de Roux](https://sites.google.com/site/nicoderoux/), [Patrick Farrell](https://www.patrickwfarrell.com/), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/), [Josepa Miquel-Florensa](https://www.tse-fr.eu/people/josepa-miquel-florensa), and [Eric Verhoogen](https://www.columbia.edu/~ev2124/). CEPR working paper [here](https://cepr.org/publications/dp20981).
 
 Work in progress
 ----
