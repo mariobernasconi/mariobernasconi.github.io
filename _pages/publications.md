@@ -10,21 +10,24 @@ author_profile: true
 
 Working papers
 ---- 
-* [Retirement and Commitments with Present-Biased Preferences](/files/Present_Bias.pdf). _R&R at Journal of Economic Behavior & Organization_.
 
-* [Pension Reforms and Partial Retirement](/files/JMP.pdf). 
-  * With [Tunga Kantarci](https://tungakantarci.github.io/).
+* <a href="/files/Present_Bias.pdf" style="text-decoration:none; color:#c00000;" target="_blank">Retirement and Commitments with Present-Biased Preferences</a>. _Conditionally accepted at Journal of Economic Behavior &amp; Organization_.
 
-* [Anticipatory Responses and Coordinated Bidding in the Colombia Wholesale Energy Market](/files/Bernasconi_et_al_Relational_Collusion_2025.pdf).
-  * With [Miguel Espinosa](https://espinomics.wixsite.com/mespinosa), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/) and [Carlos Suarez](https://sites.google.com/view/carlos-surez/home). Older versions circulated as [CEPR](https://cepr.org/publications/dp18056) and [CESifo](https://www.ifo.de/en/cesifo/publications/2023/working-paper/relational-collusion-colombian-electricity-market) working paper.
+* <a href="/files/JMP.pdf" style="text-decoration:none; color:#c00000;" target="_blank">Pension Reforms and Partial Retirement</a>.
+  * With <a href="https://tungakantarci.github.io/" style="text-decoration:none; color:black;" target="_blank">Tunga Kantarci</a>.
 
-* [Quality Upgrading in Global Supply Chains: Evidence from Colombian Coffee](/files/MMFDRVBF2512.pdf).
-  * With [Nicolás de Roux](https://sites.google.com/site/nicoderoux/), [Patrick Farrell](https://www.patrickwfarrell.com/), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/), [Josepa Miquel-Florensa](https://www.tse-fr.eu/people/josepa-miquel-florensa), and [Eric Verhoogen](https://www.columbia.edu/~ev2124/). Circulated as [NBER](https://www.nber.org/papers/w34610) and [CEPR](https://cepr.org/publications/dp20981) working paper.
+* <a href="/files/Bernasconi_et_al_Relational_Collusion_2025.pdf" style="text-decoration:none; color:#c00000;" target="_blank">Anticipatory Responses and Coordinated Bidding in the Colombia Wholesale Energy Market</a>.
+  * With <a href="https://espinomics.wixsite.com/mespinosa" style="text-decoration:none; color:black;" target="_blank">Miguel Espinosa</a>, <a href="https://sites.google.com/site/roccomacchiavello/" style="text-decoration:none; color:black;" target="_blank">Rocco Macchiavello</a> and <a href="https://sites.google.com/view/carlos-surez/home" style="text-decoration:none; color:black;" target="_blank">Carlos Suarez</a>. Older versions circulated as <a href="https://cepr.org/publications/dp18056" style="text-decoration:none; color:black;" target="_blank">CEPR</a> and <a href="https://www.ifo.de/en/cesifo/publications/2023/working-paper/relational-collusion-colombian-electricity-market" style="text-decoration:none; color:black;" target="_blank">CESifo</a> working paper.
+
+* <a href="/files/MMFDRVBF2512.pdf" style="text-decoration:none; color:#c00000;" target="_blank">Quality Upgrading in Global Supply Chains: Evidence from Colombian Coffee</a>.
+  * With <a href="https://sites.google.com/site/nicoderoux/" style="text-decoration:none; color:black;" target="_blank">Nicolás de Roux</a>, <a href="https://www.patrickwfarrell.com/" style="text-decoration:none; color:black;" target="_blank">Patrick Farrell</a>, <a href="https://sites.google.com/site/roccomacchiavello/" style="text-decoration:none; color:black;" target="_blank">Rocco Macchiavello</a>, <a href="https://www.tse-fr.eu/people/josepa-miquel-florensa" style="text-decoration:none; color:black;" target="_blank">Josepa Miquel-Florensa</a>, and <a href="https://www.columbia.edu/~ev2124/" style="text-decoration:none; color:black;" target="_blank">Eric Verhoogen</a>. Circulated as <a href="https://www.nber.org/papers/w34610" style="text-decoration:none; color:black;" target="_blank">NBER</a> and <a href="https://cepr.org/publications/dp20981" style="text-decoration:none; color:black;" target="_blank">CEPR</a> working paper.
 
 Work in progress
 ----
-* Family Time Allocations over the Last Half Century.
-  * With [Alexandros Theloudis](https://www.theloudis.net/home.html).
 
-* Unemployment Insurance and Exits from Employment
-  * With [Jeffrey Grogger](https://harris.uchicago.edu/directory/jeffrey-grogger), [Conny Wunsch](https://sites.google.com/view/cwunsch) and [Véra Zabrodina](https://verazb.github.io/).
+* Family Time Allocations over the Last Half Century.
+  * With <a href="https://www.theloudis.net/home.html" style="text-decoration:none; color:black;" target="_blank">Alexandros Theloudis</a>.
+
+* Unemployment Insurance and Exits from Employment.
+  * With <a href="https://harris.uchicago.edu/directory/jeffrey-grogger" style="text-decoration:none; color:black;" target="_blank">Jeffrey Grogger</a>, <a href="https://sites.google.com/view/cwunsch" style="text-decoration:none; color:black;" target="_blank">Conny Wunsch</a> and <a href="https://verazb.github.io/" style="text-decoration:none; color:black;" target="_blank">Véra Zabrodina</a>.
+
