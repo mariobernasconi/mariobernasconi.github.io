@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-* [The Added Worker Effect: Evidence from a Disability Insurance Reform](https://doi.org/10.1007/s11150-023-09692-4). _Review of Economics of the Household (2024)._
-  * With [Tunga Kantarci](https://tungakantarci.github.io/), [Arthur van Soest](https://www.tilburguniversity.edu/staff/a-h-o-vansoest) and [Jan-Maarten van Sonsbeek](https://www.cpb.nl/en/staff/jan-maarten-van-sonsbeek). Policy coverage in [Netspar](https://www.netspar.nl/nieuws/hoe-reageren-partners-op-het-wegvallen-van-de-wia-uitkering/) and [ESB](https://esb.nu/partners-van-langdurig-zieken-zijn-meer-gaan-werken-door-invoering-wia/).
+* <a href="https://doi.org/10.1007/s11150-023-09692-4" style="text-decoration:none; color:#c00000;" target="_blank"> The Added Worker Effect: Evidence from a Disability Insurance Reform </a>. _Review of Economics of the Household (2024)._
+  * With <a href="https://tungakantarci.github.io/" style="text-decoration:none; color: black;" target="_blank"> Tunga Kantarci </a>, [Arthur van Soest](https://www.tilburguniversity.edu/staff/a-h-o-vansoest) and [Jan-Maarten van Sonsbeek](https://www.cpb.nl/en/staff/jan-maarten-van-sonsbeek). Policy coverage in [Netspar](https://www.netspar.nl/nieuws/hoe-reageren-partners-op-het-wegvallen-van-de-wia-uitkering/) and [ESB](https://esb.nu/partners-van-langdurig-zieken-zijn-meer-gaan-werken-door-invoering-wia/).
 
 Working papers
 ---- 
