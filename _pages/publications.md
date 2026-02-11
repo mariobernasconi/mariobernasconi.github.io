@@ -11,7 +11,7 @@ author_profile: true
 Working papers
 ---- 
 
-* <a href="/files/Present_Bias.pdf" style="text-decoration:none; color:#c00000;" target="_blank">Retirement and Commitments with Present-Biased Preferences</a>. _Conditionally accepted at Journal of Economic Behavior &amp; Organization_.
+* <a href="/files/Present_Bias.pdf" style="text-decoration:none; color:#c00000;" target="_blank">Retirement and Commitments with Present-Biased Preferences</a>. _Accepted at Journal of Economic Behavior &amp; Organization_.
 
 * <a href="/files/JMP.pdf" style="text-decoration:none; color:#c00000;" target="_blank">Pension Reforms and Partial Retirement</a>.
   * With <a href="https://tungakantarci.github.io/" style="text-decoration:none; color:black;" target="_blank">Tunga Kantarci</a>.
