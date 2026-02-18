@@ -3,6 +3,7 @@ layout: archive
 title: "Vitae"
 permalink: /cv/
 author_profile: true
+published: false
 redirect_from:
   - /resume
 ---
