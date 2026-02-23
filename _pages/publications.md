@@ -11,16 +11,16 @@ author_profile: true
 Working papers
 ---- 
 
-* <a href="/files/Present_Bias.pdf" style="text-decoration:none; color:#c00000;" target="_blank">Retirement and Commitments with Present-Biased Preferences</a>. _Accepted at Journal of Economic Behavior &amp; Organization_.
+* <a href="/files/Present_Bias.pdf" style="text-decoration:none; color:#c00000;" target="_blank">Retirement and Commitments with Present-Biased Preferences</a>. _Accepted at JEBO_.
+
+* * <a href="/files/MMFDRVBF2512.pdf" style="text-decoration:none; color:#c00000;" target="_blank">Quality Upgrading in Global Supply Chains: Evidence from Colombian Coffee</a>. _R&R at QJE._
+  * With <a href="https://sites.google.com/site/nicoderoux/" style="text-decoration:none; color:black;" target="_blank">Nicolás de Roux</a>, <a href="https://www.patrickwfarrell.com/" style="text-decoration:none; color:black;" target="_blank">Patrick Farrell</a>, <a href="https://sites.google.com/site/roccomacchiavello/" style="text-decoration:none; color:black;" target="_blank">Rocco Macchiavello</a>, <a href="https://www.tse-fr.eu/people/josepa-miquel-florensa" style="text-decoration:none; color:black;" target="_blank">Josepa Miquel-Florensa</a>, and <a href="https://www.columbia.edu/~ev2124/" style="text-decoration:none; color:black;" target="_blank">Eric Verhoogen</a>. Circulated as <a href="https://www.nber.org/papers/w34610" style="text-decoration:none; color:black;" target="_blank">NBER</a> and <a href="https://cepr.org/publications/dp20981" style="text-decoration:none; color:black;" target="_blank">CEPR</a> working paper.
 
 * <a href="/files/JMP.pdf" style="text-decoration:none; color:#c00000;" target="_blank">Pension Reforms and Partial Retirement</a>.
   * With <a href="https://tungakantarci.github.io/" style="text-decoration:none; color:black;" target="_blank">Tunga Kantarci</a>.
 
 * <a href="/files/Bernasconi_et_al_Relational_Collusion_2025.pdf" style="text-decoration:none; color:#c00000;" target="_blank">Anticipatory Responses and Coordinated Bidding in the Colombia Wholesale Energy Market</a>.
   * With <a href="https://espinomics.wixsite.com/mespinosa" style="text-decoration:none; color:black;" target="_blank">Miguel Espinosa</a>, <a href="https://sites.google.com/site/roccomacchiavello/" style="text-decoration:none; color:black;" target="_blank">Rocco Macchiavello</a> and <a href="https://sites.google.com/view/carlos-surez/home" style="text-decoration:none; color:black;" target="_blank">Carlos Suarez</a>. Older versions circulated as <a href="https://cepr.org/publications/dp18056" style="text-decoration:none; color:black;" target="_blank">CEPR</a> and <a href="https://www.ifo.de/en/cesifo/publications/2023/working-paper/relational-collusion-colombian-electricity-market" style="text-decoration:none; color:black;" target="_blank">CESifo</a> working paper.
-
-* <a href="/files/MMFDRVBF2512.pdf" style="text-decoration:none; color:#c00000;" target="_blank">Quality Upgrading in Global Supply Chains: Evidence from Colombian Coffee</a>.
-  * With <a href="https://sites.google.com/site/nicoderoux/" style="text-decoration:none; color:black;" target="_blank">Nicolás de Roux</a>, <a href="https://www.patrickwfarrell.com/" style="text-decoration:none; color:black;" target="_blank">Patrick Farrell</a>, <a href="https://sites.google.com/site/roccomacchiavello/" style="text-decoration:none; color:black;" target="_blank">Rocco Macchiavello</a>, <a href="https://www.tse-fr.eu/people/josepa-miquel-florensa" style="text-decoration:none; color:black;" target="_blank">Josepa Miquel-Florensa</a>, and <a href="https://www.columbia.edu/~ev2124/" style="text-decoration:none; color:black;" target="_blank">Eric Verhoogen</a>. Circulated as <a href="https://www.nber.org/papers/w34610" style="text-decoration:none; color:black;" target="_blank">NBER</a> and <a href="https://cepr.org/publications/dp20981" style="text-decoration:none; color:black;" target="_blank">CEPR</a> working paper.
 
 Work in progress
 ----
