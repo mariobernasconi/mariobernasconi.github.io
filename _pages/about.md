@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website!
 
-I'm an applied microeconomist with an interest in labour, public, and organizational economics.
+I'm an applied microeconomist with an interest in labour, public, and organizational economics. My research combines theoretical insights, empirical evidence, and structural modelling.
 
 I'm currently a postdoctoral researcher at the University of Basel, Switzerland. I completed my Ph.D. in the Department of Econometrics and Operations Research at Tilburg University, the Netherlands.
 
