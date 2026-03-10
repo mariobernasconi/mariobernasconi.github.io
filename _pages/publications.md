@@ -30,3 +30,7 @@ Work in progress
 * Unemployment Insurance and Exits from Employment.
   * With <a href="https://harris.uchicago.edu/directory/jeffrey-grogger" style="text-decoration:none; color:black;" target="_blank">Jeffrey Grogger</a>, <a href="https://sites.google.com/view/cwunsch" style="text-decoration:none; color:black;" target="_blank">Conny Wunsch</a> and <a href="https://verazb.github.io/" style="text-decoration:none; color:black;" target="_blank">Véra Zabrodina</a>.
 
+* Workplace Culture, Strategic Human Capital, and Relational Contracts.
+  * With <a href="https://sites.google.com/site/fcobrahm/francisco-brahm-research-site" style="text-decoration:none; color:black;" target="_blank">Francisco Brahm</a>, <a href="https://espinomics.wixsite.com/mespinosa" style="text-decoration:none; color:black;" target="_blank">Miguel Espinosa</a>, <a href="https://miguelmartinezcarrasco.weebly.com/" style="text-decoration:none; color:black;" target="_blank">Miguel Martinez Carrasco</a>.
+  
+
