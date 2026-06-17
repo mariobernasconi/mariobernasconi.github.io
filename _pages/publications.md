@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* <a href="https://doi.org/10.1016/j.jebo.2026.107475" style="text-decoration:none; color:#c00000;" target="_blank">Retirement and Commitments with Present-Biased Preferences</a>. <u>Journal of Economic Behavior & Organization<u>, 2026.
+* <a href="https://doi.org/10.1016/j.jebo.2026.107475" style="text-decoration:none; color:#c00000;" target="_blank">Retirement and Commitments with Present-Biased Preferences</a>. <u>Journal of Economic Behavior & Organization</u>, 2026.
 
 * <a href="https://doi.org/10.1007/s11150-023-09692-4" style="text-decoration:none; color:#c00000;" target="_blank"> The Added Worker Effect: Evidence from a Disability Insurance Reform</a>. **_Review of Economics of the Household_**, 2024. With <a href="https://tungakantarci.github.io/" style="text-decoration:none; color: black;" target="_blank"> Tunga Kantarci </a>, <a href="https://www.tilburguniversity.edu/staff/a-h-o-vansoest" style="text-decoration:none; color: black;" target="_blank"> Arthur van Soest </a> and <a href="https://www.cpb.nl/en/staff/jan-maarten-van-sonsbeek" style="text-decoration:none; color: black;" target="_blank"> Jan-Maarten van Sonsbeek </a>. Policy coverage in <a href="https://www.netspar.nl/nieuws/hoe-reageren-partners-op-het-wegvallen-van-de-wia-uitkering/" style="text-decoration:none; color: black;" target="_blank">Netspar</a> and <a href="https://esb.nu/partners-van-langdurig-zieken-zijn-meer-gaan-werken-door-invoering-wia/" style="text-decoration:none; color: black;" target="_blank">ESB</a> (in Dutch).
 
