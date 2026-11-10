@@ -16,14 +16,15 @@ author_profile: true
   margin-bottom: 1.5em;
 }
 
-.paper-title {
+.publication-list .publication a.paper-title,
+.publication-list .publication a.paper-title:hover,
+.publication-list .publication a.paper-title:focus,
+.publication-list .publication a.paper-title:visited {
   color: #c00000;
-  text-decoration: none;
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
   font-weight: 500;
-}
-
-.paper-title:hover {
-  text-decoration: none;
 }
 
 .coauthors,
