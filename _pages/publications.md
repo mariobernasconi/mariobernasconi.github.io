@@ -52,8 +52,7 @@ author_profile: true
 
 <li class="publication">
   <a class="paper-title" href="https://jhr.uwpress.org/content/early/2026/11/02/jhr.1123-13256R2" target="_blank">
-    Peer Effects in Labor Market Training
-  </a>.<br>
+    Peer Effects in Labor Market Training</a>.<br>
   <span class="journal">Journal of Human Resources</span> (2028, published online before print).<br>
   <span class="coauthors">
     With <a href="https://wwz.unibas.ch/en/persons/ulrike-unterhofer/" target="_blank">Ulrike Unterhofer</a>.
@@ -65,15 +64,13 @@ author_profile: true
 
 <li class="publication">
   <a class="paper-title" href="https://doi.org/10.1016/j.jebo.2026.107475" target="_blank">
-    Retirement and Commitments with Present-Biased Preferences
-  </a>.<br>
+    Retirement and Commitments with Present-Biased Preferences</a>.<br>
   <span class="journal">Journal of Economic Behavior &amp; Organization</span> (2026).
 </li>
 
 <li class="publication">
   <a class="paper-title" href="https://doi.org/10.1007/s11150-023-09692-4" target="_blank">
-    The Added Worker Effect: Evidence from a Disability Insurance Reform
-  </a>.<br>
+    The Added Worker Effect: Evidence from a Disability Insurance Reform</a>.<br>
   <span class="journal">Review of Economics of the Household</span> (2024).<br>
   <span class="coauthors">
     With
@@ -97,8 +94,7 @@ author_profile: true
 
 <li class="publication">
   <a class="paper-title" href="/files/MMFDRVBF2512.pdf" target="_blank">
-    Quality Upgrading in Global Supply Chains: Evidence from Colombian Coffee
-  </a>.<br>
+    Quality Upgrading in Global Supply Chains: Evidence from Colombian Coffee</a>.<br>
   <em>Revise and resubmit at the Quarterly Journal of Economics.</em><br>
   <span class="coauthors">
     With
@@ -120,8 +116,7 @@ author_profile: true
 
 <li class="publication">
   <a class="paper-title" href="/files/Anticipatory Responses and Coordinated Bidding in the Colombian Wholesale Energy Market.pdf" target="_blank">
-    Anticipatory Responses and Coordinated Bidding in the Colombian Wholesale Energy Market
-  </a>.<br>
+    Anticipatory Responses and Coordinated Bidding in the Colombian Wholesale Energy Market</a>.<br>
   <span class="coauthors">
     With
     <a href="https://espinomics.wixsite.com/mespinosa" target="_blank">Miguel Espinosa</a>,
@@ -139,8 +134,7 @@ author_profile: true
 
 <li class="publication">
   <a class="paper-title" href="/files/JMP.pdf" target="_blank">
-    Pension Reforms and Partial Retirement
-  </a>.<br>
+    Pension Reforms and Partial Retirement</a>.<br>
   <span class="coauthors">
     With <a href="https://tungakantarci.github.io/" target="_blank">Tunga Kantarci</a>.
   </span>
