@@ -23,7 +23,7 @@ author_profile: true
 }
 
 .paper-title:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .coauthors,
