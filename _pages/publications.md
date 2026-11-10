@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* <a href="https://jhr.uwpress.org/content/early/2026/11/02/jhr.1123-13256R2" style="text-decoration:none; color:#c00000;" target="_blank">Peer Effects in Labor Market Training</a>. <u>Journal of Human Resources</u> (2028, published online before print).<br> With <a href="https://wwz.unibas.ch/en/persons/ulrike-unterhofer/" style="text-decoration:none; color:black;" target="_blank">Ulrike Unterhofer</a>. Online <a href="https://journals.uwpress.wisc.edu/JHR/supp/1123-13256R2_supp.pdf" style="text-decoration:none; color:black;" target="_blank">Online Appendix</a>.
+* <a href="https://jhr.uwpress.org/content/early/2026/11/02/jhr.1123-13256R2" style="text-decoration:none; color:#c00000;" target="_blank">Peer Effects in Labor Market Training</a>. <u>Journal of Human Resources</u> (2028, published online before print).<br> With <a href="https://wwz.unibas.ch/en/persons/ulrike-unterhofer/" style="text-decoration:none; color:black;" target="_blank">Ulrike Unterhofer</a>. <a href="https://journals.uwpress.wisc.edu/JHR/supp/1123-13256R2_supp.pdf" style="text-decoration:none; color:black;" target="_blank">Online Appendix</a>.
 
 * <a href="https://doi.org/10.1016/j.jebo.2026.107475" style="text-decoration:none; color:#c00000;" target="_blank">Retirement and Commitments with Present-Biased Preferences</a>. <u>Journal of Economic Behavior & Organization</u> (2026).
 
