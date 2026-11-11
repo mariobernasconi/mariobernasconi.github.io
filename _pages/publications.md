@@ -52,7 +52,7 @@ author_profile: true
 <ul class="publication-list">
 
 <li class="publication">
-  <a class="paper-title" href="https://jhr.uwpress.org/content/early/2026/11/02/jhr.1123-13256R2" target="_blank">
+  <a class="paper-title" href="https://doi.org/10.3368/jhr.1123-13256R2" target="_blank">
     Peer Effects in Labor Market Training</a>.<br>
   <span class="journal">Journal of Human Resources</span> (2028, published online before print).<br>
   <span class="coauthors">
