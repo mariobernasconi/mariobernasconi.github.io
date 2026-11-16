@@ -106,11 +106,11 @@ author_profile: true
     <a href="https://www.columbia.edu/~ev2124/" target="_blank">Eric Verhoogen</a>.
   </span><br>
   <span class="publication-links">
-    Also circulated as
+    Working papers:
     <a href="https://www.nber.org/papers/w34610" target="_blank">NBER</a>
     and
-    <a href="https://cepr.org/publications/dp20981" target="_blank">CEPR</a>
-    working papers. Policy coverage:
+    <a href="https://cepr.org/publications/dp20981" target="_blank">CEPR</a>.
+    Policy coverage:
     <a href="https://voxdev.org/topic/agriculture/quality-upgrading-agriculture-path-poverty-reduction" target="_blank">VoxDev</a>.
   </span>
 </li>
@@ -125,11 +125,10 @@ author_profile: true
     <a href="https://sites.google.com/view/carlos-surez/home" target="_blank">Carlos Suarez</a>.
   </span><br>
   <span class="publication-links">
-    Older versions circulated as
+    Working papers (older versions):
     <a href="https://cepr.org/publications/dp18056" target="_blank">CEPR</a>
     and
-    <a href="https://www.ifo.de/en/cesifo/publications/2023/working-paper/relational-collusion-colombian-electricity-market" target="_blank">CESifo</a>
-    working papers.
+    <a href="https://www.ifo.de/en/cesifo/publications/2023/working-paper/relational-collusion-colombian-electricity-market" target="_blank">CESifo</a>.
   </span>
 </li>
 
