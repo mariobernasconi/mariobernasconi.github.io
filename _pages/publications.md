@@ -96,7 +96,7 @@ author_profile: true
 <li class="publication">
   <a class="paper-title" href="/files/MMFDRVBF2512.pdf" target="_blank">
     Quality Upgrading in Global Supply Chains: Evidence from Colombian Coffee</a>.<br>
-  <em>Revise and resubmit at the Quarterly Journal of Economics.</em><br>
+  <em>R&R at Quarterly Journal of Economics.</em><br>
   <span class="coauthors">
     With
     <a href="https://sites.google.com/site/nicoderoux/" target="_blank">Nicolás de Roux</a>,
