@@ -164,7 +164,7 @@ author_profile: true
 </li>
 
 <li class="publication">
-  <strong>Workplace Culture, Strategic Human Capital, and Relational Contracts.</strong><br>
+  <strong>The Influence of Middle Managers' Example and Organizational Culture on Workers' Effort: Evidence from Supermarkets.</strong><br>
   <span class="coauthors">
     With
     <a href="https://sites.google.com/site/fcobrahm/francisco-brahm-research-site" target="_blank">Francisco Brahm</a>,
